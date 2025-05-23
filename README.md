@@ -20,10 +20,10 @@ Ejercicio técnico
     app/Config/Database.php
 
 Configura estos campos correctamente:
-    - 'hostname' => 'localhost',
-    - 'username' => 'root',
-    - 'password' => 'root',
-    - 'database' => 'sistema_reservas',
+   - 'hostname' => 'localhost',
+   - 'username' => 'root',
+   - 'password' => 'root',
+   - 'database' => 'sistema_reservas',
 
 4. Crea la base de datos ejecutando el archivo de sql/reservas.sql
     
