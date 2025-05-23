@@ -1,6 +1,6 @@
 # Sistema de Gestión de Reservas
 
-Este es un sistema básico de gestión de reservas desarrollado con **CodeIgniter 4**. Permite registrar y visualizar reservas de actividades.
+Ejercicio técnico
 
 ## 📦 Requisitos
 
